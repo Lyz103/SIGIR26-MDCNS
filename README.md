@@ -1,5 +1,5 @@
 # SIGIR2026
-one script to start up
+The source code of SIGIR2026 paper: Divergence Meets Consensus: A Multi-Source Negative Sampling Framework for Sequential Recommendation
 ```bash
 bash run_finetune.bash
 ```
